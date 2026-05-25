@@ -1,30 +1,24 @@
-# SCT_DA_3 – Interactive HR Attrition Dashboard (Power BI)
+# 👥 HR Attrition Analysis — Interactive Power BI Dashboard
 
-This project was completed as part of my Data Analyst Internship at SkillCraft Technology.
+An interactive HR analytics dashboard built in Microsoft Power BI to analyze employee attrition patterns and identify key factors driving employee turnover.
 
-In this task, I created an interactive dashboard using Microsoft Power BI to analyze employee attrition and understand why employees are leaving the company.
+## 🎯 Objective
+Understand why employees are leaving the organization by analyzing attrition across departments, age groups, salary levels, and job satisfaction scores.
 
-The dataset contains employee information such as age, department, gender, salary, job satisfaction, and attrition status.
-
-I imported the dataset into Power BI and created different visualizations to identify patterns and trends in employee turnover. I also grouped age and salary into categories to make the analysis easier to understand.
-
-The dashboard includes:
-- Employee Attrition Rate (Pie Chart)
-- Attrition by Department
-- Attrition by Age Group
-- Attrition by Salary Level
-- Attrition vs Job Satisfaction
-
-I added slicers (Department, Gender, and Age Group) to make the dashboard interactive so users can filter and explore the data easily.
-
-## Tools Used
+## 🛠️ Tools & Technologies
 - Microsoft Power BI Desktop
-- Data Visualization
-- Slicers and Filters
+- Data Visualization & DAX
 
-## Files Included
-- Power BI dashboard (.pbix)
-- Dataset (.xlsx)
-- Dashboard screenshot (.png)
+## 📊 Dashboard Features
+- **Attrition Rate** — Overall pie chart breakdown
+- **Attrition by Department** — Bar chart comparison
+- **Attrition by Age Group** — Distribution analysis
+- **Attrition by Salary Level** — Salary band segmentation
+- **Attrition vs Job Satisfaction** — Correlation view
+- **Interactive Slicers** — Filter by Department, Gender, Age Group
 
-This task helped me understand how data visualization can be used to convert raw HR data into meaningful insights and support business decision-making.
+## 🔍 Dataset
+Employee records including: Age, Department, Gender, Salary, Job Satisfaction, Attrition Status
+
+## 💡 Key Skills Demonstrated
+`Power BI` `HR Analytics` `Data Visualization` `Dashboard Design` `Business Intelligence`
